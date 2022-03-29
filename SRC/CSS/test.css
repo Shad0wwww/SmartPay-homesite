@@ -1,0 +1,159 @@
+.jpaVMq {
+    height: 724px;
+    display: flex;
+    flex-direction: column;
+    -moz-box-pack: center;
+    justify-content: center;
+
+}
+.jpaVMq {
+    margin: 0px auto;
+    background: rgba(0, 0, 0, 0) url("/assets/abb2786884ce34a6e234491882e0ec51.svg") no-repeat scroll right top;
+}
+
+.jvjcus {
+    font-family: "proxima-nova", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    cursor: pointer;
+    color: rgb(242, 244, 251);
+}
+
+.jvjcus {
+    font-family: "proxima-nova", sans-serif;
+    border-radius: 8px;
+    min-height: 38px;
+    font-size: 14px;
+    line-height: 22px;
+    padding-inline: 16px;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    box-sizing: border-box;
+    outline: currentcolor none medium;
+    cursor: pointer;
+    transition-property: background-color, color, opacity, border;
+    text-decoration: none;
+    position: relative;
+    user-select: none;
+    flex-shrink: 0;
+    background: rgb(57, 148, 255) none repeat scroll 0% 0%;
+    color: rgb(242, 244, 251);
+    border: medium none;
+}
+.cHgTpE {
+    display: flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: justify;
+    justify-content: space-between;
+    margin-top: 156px;
+    text-align: center;
+    opacity: 0;
+    transition-duration: 0.6s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    transition-property: opacity, transform;
+    transform: translateY(50px);
+}
+
+.ikqLuX {
+    height: 56px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 16px;
+    margin-inline-end: 16px;
+}
+
+.dHQcZ {
+    display: flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    transition: opacity 0.15s ease-out 0s;
+}
+
+body {
+    font-family: "Proxima Nova", sans-serif, Helvetica, arial, sans-serif;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 23px;
+}
+
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+    box-sizing: border-box;
+    border: 0px none;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0px;
+    outline: currentcolor none 0px;
+    padding: 0px;
+    vertical-align: baseline;
+}
+
+h1 {
+    padding: 20px 0px 10px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+}
+
+#app-mount {
+    height: 100%;
+}
+
+element {
+
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    visibility: hidden;
+    position: relative;
+    border: 0px none;
+
+}
+
+body.v2 h1 {
+    color: rgb(242, 244, 251);
+    text-transform: none;
+}
+.bYtPLw {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.bYtPLw {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 64px;
+    width: 460px;
+    max-width: 100%;
+}
+.dHQcZ {
+    display: flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    transition: opacity 0.15s ease-out 0s;
+}
+
+
+body {
+    font-family: "Proxima Nova", sans-serif, Helvetica, arial, sans-serif;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 23px;
+}
+body {
+    color: rgb(155, 157, 159);
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 400;
+}
